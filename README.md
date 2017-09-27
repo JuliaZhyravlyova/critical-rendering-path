@@ -1,4 +1,4 @@
-https://juliazhyravlyova.github.io/critical-rendering-path/
+https://juliazhyravlyova.github.io/critical-rendering-path
 
 https://juliazhyravlyova.github.io/critical-rendering-path/index.html
  
